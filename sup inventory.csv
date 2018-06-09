@@ -1,0 +1,7 @@
+HVAC,9,921,2,fan,heater,Applied
+HVAC,9,922,2,rods,window,Applied
+HVAC,10,1021,2,vantilator,heater,Applied
+Electricity,8,822,1,bulb,Applied
+AV,12,1069,1,camera,Applied
+Housekeeping,15,1023,2,Duster,Soap,Applied
+Security,17,1111,2,FlashLight,Guns,Applied

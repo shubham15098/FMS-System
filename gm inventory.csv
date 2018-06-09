@@ -1,0 +1,7 @@
+Electricity,1,141,2,switch,plugs,Applied
+HVAC,2,241,2,heater,AC,Applied
+AV,3,341,2,camera,screen,Applied
+Housekeeping,4,441,2,duster,soap,Applied
+Housekeeping,4,442,2,soap,shampoo,Applied
+Security,5,541,2,stick,lights,Applied
+Electricity,1,36,2,bulb,led,Applied
